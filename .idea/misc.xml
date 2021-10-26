@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_add.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_bookmark.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_bottom_icon.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_camera_icon.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_comment.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_grid_icon.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_heart.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_home.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_igtv.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_instagram.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_instagram_logo.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_lock.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_menu.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_messenger.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_more_icon.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_official_icon.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_plus.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_plus_sign.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_save.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_search.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_search_new.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable-v24/ic_tags_icon.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable/background.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable/background_button.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/drawable/background_edit_profil.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/layout/activity_second.xml" value="0.2" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/layout/fragment_first.xml" value="0.1921875" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/layout/fragment_four.xml" value="0.19" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/layout/fragment_second.xml" value="0.17447916666666666" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/layout/fragment_three.xml" value="0.1921875" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/layout/item_user.xml" value="0.22" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/layout/item_user_one.xml" value="0.1921875" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/layout/item_user_two.xml" value="0.1921875" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1425925925925926" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_6_2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1425925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
